@@ -96,3 +96,4 @@ Since version 3.0.0 of this SDK, Sentry version >= v20.6.0 is required. This onl
 * [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-sentry-green.svg)](https://github.com/getsentry/.github/blob/master/CODE_OF_CONDUCT.md)
 * [![Twitter Follow](https://img.shields.io/twitter/follow/getsentry?label=getsentry&style=social)](https://twitter.com/intent/follow?screen_name=getsentry)
 * TEST
+* TEST2
